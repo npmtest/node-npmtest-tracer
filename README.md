@@ -1,4 +1,7 @@
-# test coverage for  [tracer (v0.8.7)](http://github.com/baryon/tracer)  [![npm package](https://img.shields.io/npm/v/npmtest-tracer.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-tracer) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-tracer.svg)](https://travis-ci.org/npmtest/node-npmtest-tracer)
+# npmtest-tracer
+
+#### basic test coverage for  [tracer (v0.8.7)](http://github.com/baryon/tracer)  [![npm package](https://img.shields.io/npm/v/npmtest-tracer.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-tracer) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-tracer.svg)](https://travis-ci.org/npmtest/node-npmtest-tracer)
+
 #### A powerful and customizable logging library for node.js. support color console with timestamp, line number, method name, file name and call stack. you can set transport to file, stream, database(ex: mongodb and clouddb, simpledb). keywords: log, logger, t
 
 [![NPM](https://nodei.co/npm/tracer.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/tracer)
